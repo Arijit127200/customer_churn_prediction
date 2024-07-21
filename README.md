@@ -3,13 +3,11 @@
 
 
 ## 📌 Problem Definition
-The `Customer Churn table` contains information on all `7,043` customers from a `Telecommunications company` in California in Q2 2022
+Our task involves predicting customer behavior (churn, stay, or join) for a telecommunications company by analyzing demographic, location, and tenure data. The dataset consists of 6500 customer records alongside zip code population data. 
 
-Each record represents `one customer`, and contains details about their `demographics`, `location`, `tenure`, `subscription services`, `status for the quarter` `(joined, stayed, or churned)`, and more!
+By employing machine learning techniques, we aim to develop a predictive model that accurately forecasts customer behavior. This model will help identify key factors influencing customer decisions, enabling the company to tailor its strategies for retention, acquisition, and overall customer satisfaction.
 
-The `Zip Code Population` table contains complimentary information on the estimated populations for the California zip codes in the Customer Churn table
-
-We need to `predict` whether the customer will `churn`, `stay` or `join` the company based on the parameters of the dataset.
+Our approach will include data preprocessing, feature engineering, and the use of classification algorithms to achieve robust and actionable insights.
 
 We are utilizing AI-ready datasets on `YouData.ai` platform.
 -[Link to the dataset from the YouData.ai platform](https://datalink.youdata.ai/jyk9p8aw)
@@ -20,14 +18,12 @@ We are utilizing AI-ready datasets on `YouData.ai` platform.
 <img src = "/assets/1.png">
 <img src = "/assets/2.png">
 <img src = "/assets/3.png">
-<img src = "/assets/4.png">
 
 
 ## 📓 Overview
 
 | Machine Learning Models Applied            | Accuracy |
 | ----------------- | ------------------------------------------------------------------ |
-| Random Forest | 78.11% |
 | Logistic Regression | 78.28% |
 | Naive Bayes Gaussian | 36.77% |
 | Decision Tree | 77.29% |
