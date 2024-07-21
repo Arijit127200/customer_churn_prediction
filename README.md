@@ -13,7 +13,7 @@ We are utilizing AI-ready datasets on `YouData.ai` platform.
 -[Link to the dataset from the YouData.ai platform](https://datalink.youdata.ai/jyk9p8aw)
 <br><br>
 
-## 👀 Screenshots
+## Screenshots
 
 <img src = "/assets/1.png">
 <img src = "/assets/2.png">
